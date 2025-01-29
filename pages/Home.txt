@@ -1,0 +1,3 @@
+It's a home page!
+
+Introduces the user to the site, feels homely.. and stuff vaguely along those lines.
